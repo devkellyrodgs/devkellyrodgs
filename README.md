@@ -5,6 +5,8 @@
 
 ![Kelly GitHub stats](https://github-readme-stats.vercel.app/api?username=devkellyrodgs&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ### Tecnologias que uso atualmente no meu dia a dia
 
 <div style="display: inline_block"><br/>

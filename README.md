@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**devkellyrodgs/devkellyrodgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou a Kelly Rodrigues 🤙
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelly-rodrigues-6014351a3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kelly GitHub stats](https://github-readme-stats.vercel.app/api?username=devkellyrodgs&show_icons=true&theme=radical)
+
+### Tecnologias que uso atualmente no meu dia a dia
+
+<div style="display: inline_block"><br/>
+   <img alignt="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img alignt="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+   <img alignt="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img alignt="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   </div><br/>
+
+Cursando a Faculdade de ADS atualmente, sempre buscando evoluir e conhecer pessoas no meio da programação.

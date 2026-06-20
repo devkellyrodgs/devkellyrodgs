@@ -26,23 +26,26 @@ Acredito que a melhor forma de aprender é colocando a mão na massa, por isso g
 
 ## 🚀 Projetos em destaque
 
-### 🧮 Calculadora Web (https://github.com/devkellyrodgs/Calculadora)
+### 🧮 Calculadora Web (https://github.com/devkellyrodgs/Calculadora-Web)
 Projeto desenvolvido utilizando HTML, CSS e JavaScript para praticar lógica e manipulação do DOM.
 
-### 🕒 Relógio Digital 
+### 🕒 Relógio Digital (https://github.com/devkellyrodgs/Relogio-Digital)
 Aplicação que exibe horário em tempo real utilizando JavaScript.
 
-### 🎬 Clone da Netflix (https://github.com/devkellyrodgs/Netflix-Replica)
+### 🎬 Réplica da Netflix (https://github.com/devkellyrodgs/Netflix-Replica)
 Réplica da interface da Netflix criada para praticar HTML, CSS e responsividade.
 
-### 📱 Protótipo inspirado no iPhone 13 (https://github.com/devkellyrodgs/Landing-Page---iPhone)
+### 📱 Protótipo inspirado no iPhone 13 (https://github.com/devkellyrodgs/Prototipo-inspirado-no-iPhone-13)
 Projeto focado em reprodução de layout moderno e responsivo.
 
-### 🍕 Site de Pizzaria (https://github.com/devkellyrodgs/RodPizza/tree/main/pizzaria)
+### 🍕 Site de Pizzaria (https://github.com/devkellyrodgs/Site-de-Pizzaria)
 Website desenvolvido para praticar estruturação de páginas e estilização.
 
-### 🐍 Jogo da Cobrinha em Python (https://github.com/devkellyrodgs/Snake-Game)
+### 🐍 Jogo da Cobrinha em Python (https://github.com/devkellyrodgs/Snake-Game](https://github.com/devkellyrodgs/Jogo-da-Cobrinha-em-Python)
 Implementação do clássico Snake Game utilizando Python como exercício de lógica de programação.
+
+### 📬 Sistema de Contato (https://github.com/devkellyrodgs/Sistema-de-Contato)
+Interface desenvolvida para simular o envio de mensagens por meio de um formulário de contato. O projeto conta com validação dos campos obrigatórios e redirecionamento para uma página de agradecimento após o envio, servindo como prática de criação de fluxos simples de navegação e experiência do usuário.
 
 ---
 

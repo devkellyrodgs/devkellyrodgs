@@ -7,8 +7,9 @@
 ---
 
 ## 👩‍💻 Sobre mim
+💼 Atualmente desenvolvendo um portal web para a UFRJ voltado à divulgação de projetos acadêmicos sobre o Carnaval.
 
-Atualmente estou focada em aprimorar meus conhecimentos por meio da faculdade e de projetos práticos desenvolvidos por conta própria.
+Estou focada em aprimorar meus conhecimentos por meio da faculdade e de projetos práticos desenvolvidos por conta própria.
 
 Tenho interesse em desenvolvimento Front-End, Python e em aprender cada vez mais sobre o universo da tecnologia.
 

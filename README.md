@@ -1,16 +1,76 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Kelly Rodrigues
 
-<!--
-**devkellyrodgs/devkellyrodgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação** (2º período)  
+💻 Apaixonada por tecnologia, desenvolvimento web e programação  
+🚀 Em busca da minha primeira oportunidade de estágio na área de TI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Sobre mim
+
+Atualmente estou focada em aprimorar meus conhecimentos por meio da faculdade e de projetos práticos desenvolvidos por conta própria.
+
+Tenho interesse em desenvolvimento Front-End, Python e em aprender cada vez mais sobre o universo da tecnologia.
+
+Acredito que a melhor forma de aprender é colocando a mão na massa, por isso gosto de transformar meus estudos em projetos reais.
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🧮 Calculadora Web
+Projeto desenvolvido utilizando HTML, CSS e JavaScript para praticar lógica e manipulação do DOM.
+
+### 🕒 Relógio Digital
+Aplicação que exibe horário em tempo real utilizando JavaScript.
+
+### 🎬 Clone da Netflix
+Réplica da interface da Netflix criada para praticar HTML, CSS e responsividade.
+
+### 📱 Protótipo inspirado no iPhone 13
+Projeto focado em reprodução de layout moderno e responsivo.
+
+### 🍕 Site de Pizzaria
+Website desenvolvido para praticar estruturação de páginas e estilização.
+
+### 🐍 Jogo da Cobrinha em Python
+Implementação do clássico Snake Game utilizando Python como exercício de lógica de programação.
+
+---
+
+## 📚 Atualmente estudando
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Git e GitHub
+- Banco de Dados SQL
+- Desenvolvimento Web
+
+---
+
+## 🎯 Objetivos
+
+- Conseguir minha primeira oportunidade como estagiária em TI;
+- Evoluir constantemente como desenvolvedora;
+- Participar de projetos que gerem aprendizado e impacto;
+- Compartilhar conhecimento e continuar construindo meu portfólio.
+
+---
+
+## 🌐 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-rodrigues-6014351a3)
+
+---
+
+⭐ Obrigada por visitar meu perfil!

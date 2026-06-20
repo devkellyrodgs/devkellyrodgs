@@ -1,9 +1,9 @@
 # Olá! 👋 Eu sou a Kelly Rodrigues
 
 🎓 Estudante de **Sistemas de Informação** (2º período)  
-💻 Apaixonada por tecnologia, desenvolvimento web e programação  
-🚀 Em busca da minha primeira oportunidade de estágio na área de TI
-
+💻 Estudante de Sistemas de Informação com foco em desenvolvimento web e aprendizado contínuo, construindo projetos para evoluir minhas habilidades e ingressar no mercado de tecnologia.  
+📚 Estudando HTML, CSS, JavaScript, Python, Git, GitHub e Banco de Dados
+🚀 Construindo meu portfólio para conquistar minha primeira oportunidade na área de TI
 ---
 
 ## 👩‍💻 Sobre mim

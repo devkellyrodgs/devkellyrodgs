@@ -26,22 +26,22 @@ Acredito que a melhor forma de aprender é colocando a mão na massa, por isso g
 
 ## 🚀 Projetos em destaque
 
-### 🧮 Calculadora Web
+### 🧮 Calculadora Web (https://github.com/devkellyrodgs/Calculadora)
 Projeto desenvolvido utilizando HTML, CSS e JavaScript para praticar lógica e manipulação do DOM.
 
-### 🕒 Relógio Digital
+### 🕒 Relógio Digital 
 Aplicação que exibe horário em tempo real utilizando JavaScript.
 
-### 🎬 Clone da Netflix
+### 🎬 Clone da Netflix (https://github.com/devkellyrodgs/Netflix-Replica)
 Réplica da interface da Netflix criada para praticar HTML, CSS e responsividade.
 
-### 📱 Protótipo inspirado no iPhone 13
+### 📱 Protótipo inspirado no iPhone 13 (https://github.com/devkellyrodgs/Landing-Page---iPhone)
 Projeto focado em reprodução de layout moderno e responsivo.
 
-### 🍕 Site de Pizzaria
+### 🍕 Site de Pizzaria (https://github.com/devkellyrodgs/RodPizza/tree/main/pizzaria)
 Website desenvolvido para praticar estruturação de páginas e estilização.
 
-### 🐍 Jogo da Cobrinha em Python
+### 🐍 Jogo da Cobrinha em Python (https://github.com/devkellyrodgs/Snake-Game)
 Implementação do clássico Snake Game utilizando Python como exercício de lógica de programação.
 
 ---
